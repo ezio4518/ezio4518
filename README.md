@@ -3,9 +3,9 @@
 <h3 align="center">A learner and developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJqMGdpdTRwNmwwNDh4anBpNmR5Zms4eGNyMmU3bzZmcnFzNmc0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2Ygy0khwewLgMSYM0t/giphy.gif"
 
-- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **mdgufran4518@gmail.com**
+ 📫 How to reach me **mdgufran4518@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
