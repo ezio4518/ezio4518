@@ -17,10 +17,10 @@
 <div align="left">
 
  
- 🔭 I’m currently working on **StyleSpace**
+ 🔭 I’m currently working on **Tara Home**
  
  
- 🌱 I’m currently learning **Mern**
+ 🌱 I’m currently learning **GenAi**
 
 
  </div>
